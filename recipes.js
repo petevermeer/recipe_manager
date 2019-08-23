@@ -11,6 +11,23 @@ var menu = {
 			"directions":""
 		}
 	},
+	"chicken_potatoes_and_squash":{
+		"meal":"dinner",
+		"selected":false,
+		"staple":false,
+		"serves":4,
+		"recipe":{
+			"ingredients":[
+				["chicken breast","whole",2,"meat"],
+				["yellow potato","whole",4,"produce"],
+				["onion","whole",1,"produce"],
+				["tomato","whole",1,"produce"],
+				["zucchini","whole",1,"produce"],
+				["olive oil","tbsp",2,"dry goods"]
+			],
+			"directions":"bake chicken and potatoes. potatoes can bake for an hour or so at 350. chicken for the last 20-30 minutes. fry everything else in a pan."
+		}
+	},
 	"pancakes":{
 		"meal":"breakfast",
 		"selected":false,
