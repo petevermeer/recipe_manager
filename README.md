@@ -8,4 +8,12 @@ the picture needs to be:
 - sqaure (ish)
 - have a file name that matches the recipe name
 
+when you add ingredients to a recipe it helps to be consistent in how you name the section of the store you're visiting:
+
+dry goods
+meat
+dairy
+produce
+bakery
+
 demo [here](https://petevermeer.github.io/recipe_manager/)
