@@ -10,10 +10,12 @@ the picture needs to be:
 
 when you add ingredients to a recipe it helps to be consistent in how you name the section of the store you're visiting:
 
-dry goods
-meat
-dairy
-produce
-bakery
+e.g.
+
+- dry goods
+- meat
+- dairy
+- produce
+- bakery
 
 demo [here](https://petevermeer.github.io/recipe_manager/)
