@@ -290,5 +290,23 @@ var menu = {
 			],
 			"directions":"You can do it."
 		}
+	},
+	"chicken leek soup":{
+		"meal":"dinner",
+		"selected":false,
+		"staple":false,
+		"serves":6,
+		"recipe":{
+			"ingredients":[
+				["roasted chicken","whole",1,"meat"],
+				["potato","whole",2,"produce"],
+				["onion","whole",1,"produce"],
+				["carrots","lbs",1,"produce"],
+				["leeks","whole",3,"produce"],
+				["olive oil","tbsp",2,"dry goods"],
+				["cream","cup",1,"dairy"]
+			],
+			"directions":"peel veggies and dice into desired thickness. fry diced veggies (except potatoes) to brown/soften. pull chicken from carcass. make stock from the carcass and veggie trimmings. strain the stock and put back into the stockpot. Add 750ml bottle of dry white wine. Add crunchy veggies and let them get soft for an hour or so. After getting desired texture from veggies, add in chicken and season to taste. Once fully warmed, remove from heat and stir in cream."
+		}
 	}	
 };
