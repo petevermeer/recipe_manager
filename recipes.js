@@ -291,7 +291,7 @@ var menu = {
 			"directions":"You can do it."
 		}
 	},
-	"chicken leek soup":{
+	"chicken_leek_soup":{
 		"meal":"dinner",
 		"selected":false,
 		"staple":false,
