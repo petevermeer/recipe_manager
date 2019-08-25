@@ -308,5 +308,40 @@ var menu = {
 			],
 			"directions":"peel veggies and dice into desired thickness. fry diced veggies (except potatoes) to brown/soften. pull chicken from carcass. make stock from the carcass and veggie trimmings. strain the stock and put back into the stockpot. Add 750ml bottle of dry white wine. Add crunchy veggies and let them get soft for an hour or so. After getting desired texture from veggies, add in chicken and season to taste. Once fully warmed, remove from heat and stir in cream."
 		}
-	}	
+	},
+	"spinach_and_gorgonzola_baked_potatoes":{
+		"meal":"dinner",
+		"selected":false,
+		"staple":false,
+		"serves":2,
+		"recipe":{
+			"ingredients":[
+				["russet potato","large",2,"produce"],
+				["baby spinach","oz",7,"produce"],
+				["gorgonzola","oz",2,"dairy"],
+				["butter","tbsp",1.5,"dairy"],
+				["heavy cream","tbsp",3,"dairy"]
+			],
+			"directions":"twice bake potatoes. before second bake mix in butter, spinach, cheese and cream."
+		}
+	},
+	"pork_chops_with_sweet_potato_mash_and_lime_salsa":{
+		"meal":"dinner",
+		"selected":false,
+		"staple":false,
+		"serves":4,
+		"recipe":{
+			"ingredients":[
+				["sweet potato","large",2,"produce"],
+				["basil","cup",0.25,"produce"],
+				["cilantro","cup",0.25,"produce"],
+				["garlic","clove",1,"produce"],				
+				["olive oil","cup",0.25,"dry goods"],
+				["limes","whole",2,"produce"],
+				["pork chops","thick",4,"meat"]
+			],
+			"directions":"bake potatoes. mix salsa. mash potatoes. grill chops. pour salsa over everything."
+		}
+	}
+	
 };
