@@ -1,4 +1,23 @@
 var menu = {
+	"dutch_baby":{
+	    	"meal":"breakfast",
+	    	"selected":false,
+	    	"staple":false,
+	    	"serves":4,
+	    	"recipe":{
+	        	"ingredients":[
+		            	["eggs","large",3,"dairy"],
+		            	["milk","whole",0.5,"dairy"],
+		            	["flour","all-purpose",0.5,"grain"],
+		            	["sugar","granulated",2,"sweetener"],
+		            	["vanilla extract","",1,"flavoring"],
+		            	["salt","",0.25,"spice"],
+		            	["butter","unsalted",2,"dairy"],
+		            	["powdered sugar","",2,"sweetener"]
+	        	],
+	        	"directions":"<ol><li>Preheat the oven to 425°F (220°C) and place a cast-iron skillet in the oven.</li><li>In a blender, combine eggs, flour, milk, sugar, vanilla, and salt. Blend until smooth. Let rest for 5 minutes.</li><li>Remove the skillet from the oven and add the butter. Swirl to coat the bottom.</li><li>Pour the batter into the skillet and return it to the oven.</li><li>Bake for 20-25 minutes, until puffed and golden brown.</li><li>Remove from the oven, dust with powdered sugar, and serve with your favorite toppings.</li></ol>"
+	    	}
+	},
 	"hard_boiled_eggs":{
 		"meal":"breakfast",
 		"selected":false,
